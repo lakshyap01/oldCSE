@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow:
+
+User-agent: Yahoo! Slurp
+
+Disallow: 
+
+Allow: /
+
+Sitemap: http://www.centerstageevents.in/ap-sitemap.xml
